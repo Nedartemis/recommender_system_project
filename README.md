@@ -5,7 +5,7 @@
 First, we choose to implement a kmeans recommender for its simplicity and its computational efficiency.
 As seen in course, we would use only ratings for the recommendation.
 
-Our plan was to develop another model which would use other features to compare performances.
+Our plan was to develop another model (a NN encoder) which would use other features to compare performances.
 Unfortunately, we did not complete our plan, and our notebook only presents the k-means.
 
 ## Framework
